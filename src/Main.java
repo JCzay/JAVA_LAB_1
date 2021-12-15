@@ -88,6 +88,7 @@ public class Main {
         System.out.println("Modulo z dwóch liczb zmiennoprzecinkowych: ");
         System.out.println( x % y);
 
+        // koniec ćwiczenia drugiego
 
     }
 }
