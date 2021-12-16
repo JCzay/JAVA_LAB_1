@@ -42,6 +42,8 @@ public class Main {
 
         System.out.println("Kalkulator");
 
+        System.out.println(" ");
+
         System.out.printf("Podaj pierwszą liczbę: ");
         int liczba4 = scan.nextInt();
 
