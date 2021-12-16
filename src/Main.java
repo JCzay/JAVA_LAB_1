@@ -12,7 +12,7 @@ public class Main {
         *   b) wyświetlić dane za pomocą println i printf
         */
 
-        // przykład a)
+        // przykład  a)
 
         Scanner scan = new Scanner(System.in);
 
@@ -28,7 +28,7 @@ public class Main {
         System.out.print("Podaj numer indeksu: ");
         int liczba2 = scan.nextInt();
 
-        // przykład b)
+        // przykład  b)
 
         System.out.printf("Twoje imię to %s, a nazwisko %s \n", tekst, tekst2 +".");
         System.out.println("Numer indeksu, który podałeś to: " + liczba2 + ", a podany przez Ciebie wiek to: " + liczba + ".");
