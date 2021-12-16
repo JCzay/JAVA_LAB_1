@@ -8,6 +8,8 @@ public class Main {
 
         /* zad.1 proszę dodać kilka złożonych operacji uzywając kilku operatorów arytmetycznych i logicznych */
 
+        System.out.println("Operacje wykorzystujące operatory arytmetyczne: ");
+
 
     }
 }
